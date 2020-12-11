@@ -1,0 +1,11 @@
+D:\practice\ex-rust\ch2\guessing_game\target\debug\deps\libc-5b608882866f20b9.rmeta: C:\Users\Erick\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\libc-0.2.81\src\lib.rs C:\Users\Erick\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\libc-0.2.81\src\macros.rs C:\Users\Erick\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\libc-0.2.81\src\fixed_width_ints.rs C:\Users\Erick\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\libc-0.2.81\src\windows\mod.rs C:\Users\Erick\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\libc-0.2.81\src\windows\msvc.rs
+
+D:\practice\ex-rust\ch2\guessing_game\target\debug\deps\liblibc-5b608882866f20b9.rlib: C:\Users\Erick\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\libc-0.2.81\src\lib.rs C:\Users\Erick\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\libc-0.2.81\src\macros.rs C:\Users\Erick\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\libc-0.2.81\src\fixed_width_ints.rs C:\Users\Erick\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\libc-0.2.81\src\windows\mod.rs C:\Users\Erick\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\libc-0.2.81\src\windows\msvc.rs
+
+D:\practice\ex-rust\ch2\guessing_game\target\debug\deps\libc-5b608882866f20b9.d: C:\Users\Erick\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\libc-0.2.81\src\lib.rs C:\Users\Erick\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\libc-0.2.81\src\macros.rs C:\Users\Erick\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\libc-0.2.81\src\fixed_width_ints.rs C:\Users\Erick\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\libc-0.2.81\src\windows\mod.rs C:\Users\Erick\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\libc-0.2.81\src\windows\msvc.rs
+
+C:\Users\Erick\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\libc-0.2.81\src\lib.rs:
+C:\Users\Erick\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\libc-0.2.81\src\macros.rs:
+C:\Users\Erick\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\libc-0.2.81\src\fixed_width_ints.rs:
+C:\Users\Erick\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\libc-0.2.81\src\windows\mod.rs:
+C:\Users\Erick\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\libc-0.2.81\src\windows\msvc.rs:
